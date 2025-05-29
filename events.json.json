@@ -1,0 +1,143 @@
+{
+  "location": "Stony Brook, New York",
+  "extracted_events": [
+    {
+      "event_name": "Three Village Farmers Market",
+      "date": "May 30, 2025",
+      "location": "Three Village Farmers Market, Setauket, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Thomas MacBrien Live Music",
+      "date": "May 30, 2025",
+      "location": "Tap Room Ronkonkoma, Ronkonkoma, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Live Music by Nate Charlie",
+      "date": "May 30, 2025",
+      "location": "Flanagans Pub, Lake Ronkonkoma, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "James Castelli Live Music",
+      "date": "May 30, 2025",
+      "location": "Bull Smith's Tavern, Smithtown, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Live Music: Bourbon Street Duo",
+      "date": "May 30, 2025",
+      "location": "Garden Grill, Smithtown, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Fire and Rain Live Music",
+      "date": "May 30, 2025",
+      "location": "Foleys Smithtown, Smithtown, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Live Music - John Maurice Restrepo and Eduardo Withrington",
+      "date": "May 30, 2025",
+      "location": "Madiran The Wine Bar, East Setauket, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Live Music - Felicia",
+      "date": "May 30, 2025",
+      "location": "Smithtown Pasta House, Smithtown, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Music- Lim Folk and Fiddle",
+      "date": "May 30, 2025",
+      "location": "The Long Island Museum, Stony Brook, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Show - Half Time",
+      "date": "May 30, 2025",
+      "location": "Theatre Three, Port Jefferson, NY",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Folk and Fiddle: String Quartets Inspired by Folk Traditions",
+      "date": "May 30, 2025",
+      "location": "1200 RT-25A, Stony Brook, NY, United States, New York 11790",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Rebuild Harbor Road, Restore our Pond",
+      "date": "May 31, 2025",
+      "location": "Corner of Harbor Road and Main Street",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "JustusWorldwide Presents: RAYS OF LIGHT",
+      "date": "May 31, 2025",
+      "location": "Somethin' Else",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "JustusWorldwide Presents: RAYS OF LIGHT",
+      "date": "June 01, 2025",
+      "location": "Somethin' Else",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Reggaeton Sunset Yacht Party | El Barco de Perreo NYC",
+      "date": "May 31, 2025",
+      "location": "Skyport Marina Cabana Yacht",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Sabor a Colombia VOL. 3 - Colombian Latin Midnight Yacht Party",
+      "date": "May 30, 2025",
+      "location": "Skyport Marina Cabana Yacht",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Sabor a Colombia VOL. 3 - Colombian Latin Midnight Yacht Party",
+      "date": "May 31, 2025",
+      "location": "Skyport Marina Cabana Yacht",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "In Person Speed Dating I NYC Singles (30s/40s) I Almost Sold Out",
+      "date": "May 31, 2025",
+      "location": "Handcraft Kitchen & Cocktails",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Ghosts & Giggles The Original Psychic Medium Standup Comedy Show",
+      "date": "May 31, 2025",
+      "location": "Allegro Bar & Grille",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Matcha, Journal, and Heal",
+      "date": "May 31, 2025",
+      "location": "Bayside Meditation",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "VIP Melba Moore Meet & Greet Celebration",
+      "date": "May 31, 2025",
+      "location": "Atolye",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Old Field Farm Schooling Show #2",
+      "date": "June 01, 2025",
+      "location": "92 W Meadow Rd, East Setauket, NY 11733-1532, United States",
+      "demand_level": "Low"
+    },
+    {
+      "event_name": "Hell Gate Walking Tour",
+      "date": "June 01, 2025",
+      "location": "Randall's Island Park",
+      "demand_level": "Low"
+    }
+  ]
+}

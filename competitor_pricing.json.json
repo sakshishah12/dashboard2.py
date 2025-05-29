@@ -1,0 +1,32 @@
+{
+  "hotel_name": "Hilton Garden Inn",
+  "hotel_location": "Stony Brook, New York",
+  "date_range": "May 29, 2025 - May 31, 2025",
+  "competitors": [
+    {
+      "hotel_name": "Hilton Garden Inn Stony Brook",
+      "hotel_location": "Stony Brook, NY",
+      "price_per_night_usd": 210
+    },
+    {
+      "hotel_name": "Holiday Inn Express Stony Brook",
+      "hotel_location": "Stony Brook, NY",
+      "price_per_night_usd": 195
+    },
+    {
+      "hotel_name": "Three Village Inn",
+      "hotel_location": "Stony Brook, NY",
+      "price_per_night_usd": 250
+    },
+    {
+      "hotel_name": "Danfords Hotel & Marina",
+      "hotel_location": "Port Jefferson, NY",
+      "price_per_night_usd": 320
+    },
+    {
+      "hotel_name": "Hilton Garden Inn Islip/MacArthur Airport",
+      "hotel_location": "Ronkonkoma, NY",
+      "price_per_night_usd": 180
+    }
+  ]
+}
